@@ -1,4 +1,4 @@
-# CODTECH-Task2
+e# CODTECH-Task2
 Name: Aaishah Sheikh
 
 Company: CODTECH IT SOLUTIONS
@@ -12,6 +12,7 @@ Duration: May to June 2024
 Mentor: G. Sravani
 
 Task 2: Exploratory Data Analysis
+e
 Importing Libraries
 The necessary libraries for data manipulation, visualization, and machine learning are imported. This includes:
 
